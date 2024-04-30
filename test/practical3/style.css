@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(37, 37, 37);
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+    color: white;
+}
+header{
+    height: 500px;
+    width: 100%;
+}
+.main{
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    height: 500px;
+    width: 32%;
+    background-color: white;
+}
+.box img{
+    height: 300px;
+    width: 100%;
+}
+.box h2{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.box p{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
